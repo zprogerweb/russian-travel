@@ -1,0 +1,15 @@
+.cover {
+    max-width: 1184px;
+    height: 740px;
+    margin: 92px 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rebeccapurple;
+    background-image: url(../../images/cover-trains.jpg);
+    background-size: contain;
+    position: relative;
+    background-repeat: no-repeat;
+
+}

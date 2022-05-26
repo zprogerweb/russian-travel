@@ -1,0 +1,9 @@
+.page {
+    margin: 0 auto;
+    max-width: 1280px;
+    min-height: 100vh;
+    border: 1px solid green;
+    background-color: #2A2C2F;
+    font-family: 'Inter', 'Arial', sans-serif;
+    color: #fff;
+}

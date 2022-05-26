@@ -1,0 +1,12 @@
+.place {
+    display: grid;
+    max-width: 984px;
+    border: 1px solid whitesmoke;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 48px 40px;
+    margin: 0 auto 80px;
+}
+
+.place:last-child {
+    margin-bottom: 0;
+}
