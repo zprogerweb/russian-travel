@@ -1,0 +1,5 @@
+.footer {
+    margin: 0 48px 24px;
+    display: flex;
+    justify-content: space-between;
+}
