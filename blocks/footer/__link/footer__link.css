@@ -14,7 +14,6 @@
 }
 
 .footer__link:hover {
-    background-color: #2A2C2F;
-    opacity: 0.5;
-    transition: opacity 0.2s ease;
+    opacity: .8;
+    transition: opacity 0.3s ease;
 }

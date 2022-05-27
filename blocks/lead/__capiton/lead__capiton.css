@@ -1,8 +1,8 @@
 .lead__capiton {
     margin: 8px 0 0;
     font-weight: 400;
-    font-size: 0.6rem;
-    line-height: 0.9em;
+    font-size: 10px;
+    line-height: 14px;
     letter-spacing: 0.15em;
     text-transform: uppercase;
 }
