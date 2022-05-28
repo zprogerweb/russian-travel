@@ -26,5 +26,6 @@
         max-width: 288px;
         grid-template-columns: 1fr;
         padding: 0 16px;
+        margin-bottom: 64px;
     }
 }

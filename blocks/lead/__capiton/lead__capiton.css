@@ -6,3 +6,15 @@
     letter-spacing: 0.15em;
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 768px) {
+    .lead__capiton {
+        padding-left: 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .lead__capiton {
+        padding-left: 16px;
+    }
+}

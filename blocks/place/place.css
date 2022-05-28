@@ -19,7 +19,7 @@
 @media screen and (max-width: 768px) {
     .place {
         max-width: 720px;
-        margin: 0 auto 73px;
+        margin-bottom: 73px;
     }
 }
 
@@ -27,7 +27,7 @@
     .place {
         max-width: 320px;
         grid-template-columns: 1fr;
-        margin: 0 auto 50px;
+        margin-bottom: 50px;
         gap: 32px;
 
     }
