@@ -15,3 +15,21 @@
   src: url("../fonts/Inter-3.19/Inter-Black.woff2") format("woff2"),
     url("../fonts/Inter-3.19/Inter-Black.woff") format("woff");
 }
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/Inter-3.19/Inter-Bold.woff2") format("woff2"),
+    url("../fonts/Inter-3.19/Inter-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("../fonts/Inter-3.19/Inter-ExtraLight.woff2") format("woff2"),
+    url("../fonts/Inter-3.19/Inter-ExtraLight.woff") format("woff");
+}

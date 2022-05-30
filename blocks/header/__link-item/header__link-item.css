@@ -6,6 +6,6 @@
     margin-right: 0;
 }
 
-.header__link-item:first-child {
+.header__link-item:visited {
     text-decoration: underline;
 }
