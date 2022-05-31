@@ -2,7 +2,7 @@
 
 Список использованных технологий - БЭМ
 
-Ссылка страницы на github-pages -https://github.com/zprogerweb/russian-travel
+Ссылка страницы на github-pages - https://github.com/zprogerweb/zprogerweb.github.io.git
 
 Описание проекта
 
