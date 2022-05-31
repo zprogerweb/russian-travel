@@ -2,6 +2,7 @@
     margin: 0;
     display: flex;
     justify-items: left;
+    flex-wrap: wrap;
 }
 
 @media screen and (max-width: 320px) {

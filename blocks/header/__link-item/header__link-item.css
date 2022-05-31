@@ -5,7 +5,3 @@
 .header__link-item:last-child {
     margin-right: 0;
 }
-
-.header__link-item:visited {
-    text-decoration: underline;
-}
